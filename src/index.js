@@ -1,9 +1,9 @@
+import fs from 'fs';
+
 import { crossover } from './crossover.js';
 import { inisialisasiJadwal } from './data.js';
 import { hitungFitness } from './fitness.js';
 import { mutasi } from './mutasi.js';
-
-import fs from 'fs';
 import { seleksi } from './seleksi.js';
 
 // Fungsi untuk menyimpan hasil ke dalam file JSON
@@ -30,8 +30,8 @@ function jalankanGenetika(ukuranPopulasi, ukuranTournament, probabilitasCrossove
 
     for (let i = 0; i < ukuranPopulasi; i++) {
       // Seleksi
-      let individu1 = seleksi(populasi, ukuranTournament);
-      let individu2 = seleksi(populasi, ukuranTournament);
+      let individu1 = seleksi(populasi);
+      let individu2 = seleksi(populasi);
 
       // Crossover
       if (Math.random() < probabilitasCrossover) {

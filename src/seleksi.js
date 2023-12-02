@@ -1,14 +1,9 @@
 import { hitungFitness } from './fitness.js';
 
-export function seleksi(populasi, ukuranTournament) {
-  const turnamen = [];
+export function seleksi(populasi) {
+  // Mengurutkan populasi berdasarkan fitness dari tinggi ke rendah
+  populasi.sort((a, b) => hitungFitness(b) - hitungFitness(a));
 
-  for (let i = 0; i < ukuranTournament; i++) {
-    const randomIndex = Math.floor(Math.random() * populasi.length);
-    turnamen.push(populasi[randomIndex]);
-  }
-
-  turnamen.sort((a, b) => hitungFitness(a) - hitungFitness(b));
-
-  return turnamen[0];
+  // Mengembalikan individu dengan fitness tertinggi
+  return populasi[0];
 }
