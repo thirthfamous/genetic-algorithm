@@ -1,0 +1,16 @@
+{
+  "name": "genetic-algorithm",
+  "version": "1.0.0",
+  "description": "algoritma genetika",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "gen": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Hamdallah",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  }
+}

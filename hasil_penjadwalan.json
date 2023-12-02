@@ -1,0 +1,4601 @@
+[
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK5",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Rabu",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK5",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Rabu",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Jumat",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Rabu",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Selasa",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Jumat",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Senin",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Kamis",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "10:00",
+    "ID_Ruangan": "R5"
+  }
+][
+  {
+    "ID_Jadwal": 0,
+    "ID_Dosen": 103,
+    "Kode_MK": "MK1",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R1"
+  },
+  {
+    "ID_Jadwal": 1,
+    "ID_Dosen": 101,
+    "Kode_MK": "MK2",
+    "Hari": "Kamis",
+    "Jam_Mulai": "10:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R2"
+  },
+  {
+    "ID_Jadwal": 2,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK3",
+    "Hari": "Selasa",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R3"
+  },
+  {
+    "ID_Jadwal": 3,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK4",
+    "Hari": "Senin",
+    "Jam_Mulai": "13:00",
+    "Jam_Selesai": "13:00",
+    "ID_Ruangan": "R4"
+  },
+  {
+    "ID_Jadwal": 4,
+    "ID_Dosen": 102,
+    "Kode_MK": "MK5",
+    "Hari": "Selasa",
+    "Jam_Mulai": "08:00",
+    "Jam_Selesai": "08:00",
+    "ID_Ruangan": "R5"
+  }
+]
